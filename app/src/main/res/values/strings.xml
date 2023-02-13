@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FriendLocator</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="muhammad_nasir">Muhammad Nasir</string>
+    <string name="time_duration">Time Left</string>
+    <string name="_4_minute">4 Minute</string>
+    <string name="speed">Remaining Distance</string>
+    <string name="_40km_4">5.5 KM</string>
+    <string name="google_direction_api_key">AIzaSyAU213hu14c3e729wdSal1FA1qQx0D5Qh0</string>
+    <string name="app_notification_description">Updating Location in Background</string>
+    <string name="you_reached_successfully_to_your_destination">You reached successfully to your destination</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="please_verify_your_account_by_clicking_on_the_link_sent_to_you_through_email_if_you_did_not_receive_email_in_inbox_please_check_spam_box_in_your_email">Please verify your account by clicking on the link sent to you through email. If you did not receive email in inbox please check in spam folder.</string>
+    <string name="email_verification_warning">To continue using FriendLocator, please verify your email address</string>
+</resources>
